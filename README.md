@@ -2,6 +2,7 @@
 Challenges
 ---------------
 
+# to run the app: shotgun app.rb -p 4567
 1. The Web
 => Learning Objectives covered:
 Understand the client-server relationship.
